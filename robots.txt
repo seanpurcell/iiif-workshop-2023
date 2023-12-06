@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://seanpurcell.github.io/iiif-workshop-2023
+
+# Sitemaps
+Sitemap: https://seanpurcell.github.io/iiif-workshop-2023/sitemap.xml
